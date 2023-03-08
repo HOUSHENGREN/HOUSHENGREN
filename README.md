@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+skill: https://zhuanlan.zhihu.com/p/426231957
+
 -->
+
 - 🔭 I’m currently working on foshan
 - 🌱 I’m currently learning webpack
 

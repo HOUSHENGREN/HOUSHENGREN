@@ -21,5 +21,6 @@ skill: https://zhuanlan.zhihu.com/p/426231957
 - 🔭 I’m currently working on [keyenlinx](https://www.keyenlinx.com/)
 - 🌱 I’m currently learning webpack
 - 😄 Blogs: [houshengren.github.io/zdz-blog/](https://houshengren.github.io/zdz-blog/)
+- ✍️ [Leetcode](https://leetcode.cn/u/hou-sheng-ren/)
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOUSHENGREN)

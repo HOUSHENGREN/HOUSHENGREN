@@ -19,6 +19,7 @@ skill: https://zhuanlan.zhihu.com/p/426231957
 -->
 - ✌️ I'm 哈哈哈佛大师兄, nice to meet u!
 - 🔭 I’m currently working on [keyenlinx](https://www.keyenlinx.com/)
+- 🐳 I’m developing my personal theme => [vuepress-theme-zdz](https://github.com/HOUSHENGREN/vuepress-theme-zdz)
 - 🌱 I’m learning webpack & react & electron & node
 - 😄 [Blogs](https://houshengren.github.io/zdz-blog/)
 - ✍️ [Leetcode](https://leetcode.cn/u/hou-sheng-ren/)
